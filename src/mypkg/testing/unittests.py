@@ -3,7 +3,7 @@
 
 Background Material:
 
-    * [Python Unittest logs](https://docs.python.org/3/library/unittest.html)
+* [Python Unittest logs](https://docs.python.org/3/library/unittest.html)
 
 """
 

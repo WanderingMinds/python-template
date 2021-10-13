@@ -7,8 +7,9 @@ This is the "doctests" example module.
 This module shows some examples of the doctests in Python. 
 
 Background Material:
-    * [How To Write Doctests in Python](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python)
-    * [Doctest Documentation](https://docs.python.org/3/library/doctest.html)
+
+* [How To Write Doctests in Python](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python)
+* [Doctest Documentation](https://docs.python.org/3/library/doctest.html)
 
 Example:
     >>> factorial(5)

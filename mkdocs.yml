@@ -1,0 +1,26 @@
+# Theme
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+# Project information
+site_name: Simple Python Package
+site_url: https://stevemar.github.io/minimal-workshop-mkdocs
+site_author: WanderingMinds Developers
+
+# Repository
+repo_name: python-template
+repo_url: https://github.com/WanderingMinds/python-template/tree/skeleton-standard
+
+# Navigation
+nav:
+  - Welcome:
+    - About the site: index.md
+  - Code Reference:
+    - mypkg: mypkg_reference.md
+
+# Plugins
+plugins:
+  - search
+  - mkdocstrings
