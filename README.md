@@ -31,7 +31,10 @@ Project Organization
     │   ├── demo           <- Demo Sub Package
     │   │   └── demo_doctest.py
 
+Background Material
+----------------
 
+* [Best practices for testing](https://docs.pytest.org/en/6.2.x/goodpractices.html)
 
 --------
 
