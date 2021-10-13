@@ -7,3 +7,5 @@ The documentation standard follows the [Google Pythond standard](https://sphinxc
 Todo:
     * Add demo of Python 3 type checking.
 """
+
+from . import testing
